@@ -19,4 +19,4 @@ dependencies = [
 [[package]]
 name = "hello-lib"
 version = "0.1.0"
-source = "git+https://github.com/akiernan/hello-lib.git?rev=458e5e43068ef1635e23de1f0cd106e4058a07be#458e5e43068ef1635e23de1f0cd106e4058a07be"
+source = "git+https://github.com/akiernan/hello-lib.git?rev=2552af9d648985dbbb2d13c07d54a4938b9a3774#2552af9d648985dbbb2d13c07d54a4938b9a3774"
