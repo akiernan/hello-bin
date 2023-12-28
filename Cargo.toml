@@ -1,0 +1,10 @@
+[package]
+name = "hello-bin"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+figlet-rs = "0.1.5"
+hello-lib = { git = "https://github.com/akiernan/hello-lib.git", rev = "458e5e43068ef1635e23de1f0cd106e4058a07be", version = "0.1.0" }
